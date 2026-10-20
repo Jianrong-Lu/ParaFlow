@@ -1,0 +1,10 @@
+torch>=2.1.0
+diffusers>=0.30.0
+transformers>=4.44.0
+accelerate>=0.30.0
+safetensors>=0.4.0
+sentencepiece>=0.1.99
+protobuf>=3.20
+numpy>=1.24
+Pillow>=9.0
+huggingface_hub>=0.24.0
